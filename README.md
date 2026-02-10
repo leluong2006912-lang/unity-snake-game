@@ -42,6 +42,11 @@ Rắn tự cắn vào thân của chính mình
 - Assets/
 - Packages/
 - ProjectSettings/
-
+  
 ## 👨‍🎓 Sinh viên thực hiện
-- Họ tên: **Lương Lê**
+- Họ tên: Lương Lê
+- Môn học: Lập trình Game
+
+## 📌 Ghi chú
+- Game được xây dựng nhằm mục đích học tập
+- Phiên bản Unity: 6.x LTS
